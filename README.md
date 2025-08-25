@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Nabil Mouzouna – a software engineering and network & telecommunications enthusiast with a strong passion for cybersecurity and DevSecOps. I love building practical, hands-on projects that touch multiple aspects of technology, from backend systems and cloud infrastructure to web development and security automation.<br><br>When I’m not coding, I’m exploring ways to optimize workflows, automate systems, and push myself to stay sharp in the ever-evolving tech landscape.
+Hi! I’m Nabil Mouzouna – a network & telecommunications engineer with a strong passion for cybersecurity and DevSecOps. I love building practical, hands-on projects that touch multiple aspects of technology, from backend systems and cloud infrastructure to web development and security.<br><br>When I’m not coding, I’m exploring ways to optimize workflows, automate systems, and push myself to stay sharp in the ever-evolving tech landscape.
 
 
 ## 🌐 Socials:
