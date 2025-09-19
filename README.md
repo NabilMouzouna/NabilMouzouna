@@ -32,7 +32,7 @@ I'm a **Network & Telecommunications Engineer** with a deep passion for **cybers
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
 
 
 ### **Backend & APIs**
