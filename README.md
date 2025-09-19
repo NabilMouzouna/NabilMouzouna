@@ -1,7 +1,7 @@
 # Hi there, I'm Nabil Mouzouna! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Network+%26+Telecommunications+Engineer;Cybersecurity+Enthusiast;DevSecOps+Practitioner;Full-Stack+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Cybersecurity+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
