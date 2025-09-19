@@ -86,9 +86,9 @@ I'm a **Network & Telecommunications Engineer** with a deep passion for **cybers
 
 ```typescript
 const currentFocus = {
-  learning: ["Advanced Kubernetes", "Zero Trust Security", "AI/ML Integration"],
-  building: ["DevSecOps Pipeline Automation", "Cloud-Native Applications"],
-  exploring: ["Serverless Architecture", "Edge Computing", "Quantum Security"],
+  learning: ["DevOps Practices","Penetration Testing", "Zero Trust Security", "DX and SDKs Building Mindset"],
+  building: ["NubleTrust Open-Source authN/authZ with Zero Trust Concepts", "AWS-Native Applications"],
+  exploring: ["Serverless Architecture", "Amplify BaaS", "Vulnerabilities Scanning"],
   contributing: ["Open Source Projects", "Technical Content Creation"]
 };
 ```
