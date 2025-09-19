@@ -98,7 +98,7 @@ const currentFocus = {
 ## 📝 Latest Content & Insights
 
 - 📖 **Medium**: Sharing deep dives into cybersecurity and DevOps best practices
-- 🎥 **YouTube**: Creating tutorials on network security and cloud architecture
+- 🎥 **YouTube**: (Planning) Creating tutorials on network security, Software Engineering, and combining tech fields to be more valuable in the market
 - 💼 **LinkedIn**: Industry insights and professional networking
 - 🐦 **X/Twitter**: Quick tech tips and industry observations
 
